@@ -59,10 +59,6 @@ Act as an HR expert and resume writer with a specialization in creating ATS-frie
       </div>
       <ul class="compact-list">
           <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
       </ul>
     </div>
 </section>
