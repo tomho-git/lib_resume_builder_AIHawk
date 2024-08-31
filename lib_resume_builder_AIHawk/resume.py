@@ -68,6 +68,11 @@ class LegalAuthorization(BaseModel):
     legally_allowed_to_work_in_eu: Optional[str]  # Added field
     legally_allowed_to_work_in_us: Optional[str]  # Added field
     requires_eu_sponsorship: Optional[str]
+    canada_work_authorization: Optional[str]
+    requires_canada_visa: Optional[str]
+    legally_allowed_to_work_in_canada: Optional[str]
+    requires_canada_sponsorship: Optional[str]
+
 
 class Resume(BaseModel):
     personal_information: Optional[PersonalInformation]
