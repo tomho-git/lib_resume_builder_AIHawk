@@ -39,6 +39,7 @@ Act as an HR expert and resume writer with a specialization in creating ATS-frie
 1. **Institution Name and Location**: Specify the university or educational institution’s name and location.
 2. **Degree and Field of Study**: Clearly indicate the degree earned and the field of study.
 3. **GPA**: Include your GPA if it is strong and relevant.
+4. **Relevant Coursework**: List key courses with their grades to showcase your academic strengths, but make sure you only list the course you have. You may leave it as empty if there is none. 
 
 Ensure the information is clearly presented and emphasizes academic achievements that align with the job description.
 
@@ -61,6 +62,9 @@ Ensure the information is clearly presented and emphasizes academic achievements
           <span class="entry-title">[Degree] in [Field of Study] | GPA: [Your GPA]/4.0</span>
           <span class="entry-year">[Start Year] – [End Year]  </span>
       </div>
+      <ul class="compact-list">
+          <li>[Course Name] → GPA: [Grade]/4.0</li>
+      </ul>
     </div>
 </section>
 ```
