@@ -297,8 +297,8 @@ class LLMResumeJobDescription:
         # Create a dictionary to map the function names to their respective callables
         functions = {
             "header": header_fn,
-            "education": education_fn,
             "work_experience": work_experience_fn,
+            "education": education_fn,
             "side_projects": side_projects_fn,
             "achievements": achievements_fn,
             "additional_skills": additional_skills_fn,

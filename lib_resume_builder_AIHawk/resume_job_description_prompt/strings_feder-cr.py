@@ -64,10 +64,6 @@ Ensure the information is clearly presented and emphasizes academic achievements
       </div>
       <ul class="compact-list">
           <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
       </ul>
     </div>
 </section>
