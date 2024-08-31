@@ -102,6 +102,9 @@ Ensure that the descriptions highlight relevant experience and align with the jo
       </div>
       <ul class="compact-list">
           <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe any key projects or technologies you worked with]  </li>
           <li>[Describe any key projects or technologies you worked with]  </li>
           <li>[Mention any notable accomplishments or results]</li>
       </ul>
@@ -117,6 +120,9 @@ Ensure that the descriptions highlight relevant experience and align with the jo
       </div>
       <ul class="compact-list">
           <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe any key projects or technologies you worked with]  </li>
           <li>[Describe any key projects or technologies you worked with]  </li>
           <li>[Mention any notable accomplishments or results]</li>
       </ul>

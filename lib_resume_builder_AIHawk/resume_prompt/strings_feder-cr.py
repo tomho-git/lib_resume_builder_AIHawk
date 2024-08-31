@@ -58,8 +58,11 @@ Act as an HR expert and resume writer with a specialization in creating ATS-frie
           <span class="entry-year">[Start Date] – [End Date]</span>
       </div>
       <ul class="compact-list">
-          <li>[Describe your responsibilities and achievements in this role]</li>
-          <li>[Describe any key projects or technologies you worked with]</li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe any key projects or technologies you worked with]  </li>
+          <li>[Describe any key projects or technologies you worked with]  </li>
           <li>[Mention any notable accomplishments or results]</li>
       </ul>
     </div>
@@ -73,8 +76,11 @@ Act as an HR expert and resume writer with a specialization in creating ATS-frie
           <span class="entry-year">[Start Date] – [End Date]</span>
       </div>
       <ul class="compact-list">
-          <li>[Describe your responsibilities and achievements in this role]</li>
-          <li>[Describe any key projects or technologies you worked with]</li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe your responsibilities and achievements in this role] </li>
+          <li>[Describe any key projects or technologies you worked with]  </li>
+          <li>[Describe any key projects or technologies you worked with]  </li>
           <li>[Mention any notable accomplishments or results]</li>
       </ul>
     </div>
