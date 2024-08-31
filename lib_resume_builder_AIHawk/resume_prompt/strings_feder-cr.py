@@ -33,39 +33,6 @@ Act as an HR expert and resume writer specializing in ATS-friendly resumes. Your
 The results should be provided in html format, Provide only the html code for the resume, without any explanations or additional text and also without ```html ```
 """
 
-prompt_education = """
-Act as an HR expert and resume writer with a specialization in creating ATS-friendly resumes. Your task is to articulate the educational background for a resume. For each educational entry, ensure you include:
-
-1. **Institution Name and Location**: Specify the university or educational institution’s name and location.
-2. **Degree and Field of Study**: Clearly indicate the degree earned and the field of study.
-3. **GPA**: Include your GPA if it is strong and relevant.
-4. **Relevant Coursework**: List key courses with their grades to showcase your academic strengths.
-
-- **My information:**  
-  {education_details}
-
-- **Template to Use**
-```
-<section id="education">
-    <h2>Education</h2>
-    <div class="entry">
-      <div class="entry-header">
-          <span class="entry-name">[University Name]</span>
-          <span class="entry-location">[Location]</span>
-      </div>
-      <div class="entry-details">
-          <span class="entry-title">[Degree] in [Field of Study] | GPA: [Your GPA]/4.0</span>
-          <span class="entry-year">[Start Year] – [End Year]</span>
-      </div>
-      <ul class="compact-list">
-          <li>[Course Name] → GPA: [Grade]/4.0</li>
-      </ul>
-    </div>
-</section>
-```
-The results should be provided in html format, Provide only the html code for the resume, without any explanations or additional text and also without ```html ```
-"""
-
 prompt_working_experience = """
 Act as an HR expert and resume writer with a specialization in creating ATS-friendly resumes. Your task is to detail the work experience for a resume. For each job entry, ensure you include:
 
@@ -170,6 +137,40 @@ Act as an HR expert and resume writer with a specialization in creating ATS-frie
       <ul class="compact-list">
           <li>[Describe any notable recognition or reception]</li>
           <li>[Describe any notable recognition or reception]</li>
+      </ul>
+    </div>
+</section>
+```
+The results should be provided in html format, Provide only the html code for the resume, without any explanations or additional text and also without ```html ```
+"""
+
+
+prompt_education = """
+Act as an HR expert and resume writer with a specialization in creating ATS-friendly resumes. Your task is to articulate the educational background for a resume. For each educational entry, ensure you include:
+
+1. **Institution Name and Location**: Specify the university or educational institution’s name and location.
+2. **Degree and Field of Study**: Clearly indicate the degree earned and the field of study.
+3. **GPA**: Include your GPA if it is strong and relevant.
+4. **Relevant Coursework**: List key courses with their grades to showcase your academic strengths.
+
+- **My information:**  
+  {education_details}
+
+- **Template to Use**
+```
+<section id="education">
+    <h2>Education</h2>
+    <div class="entry">
+      <div class="entry-header">
+          <span class="entry-name">[University Name]</span>
+          <span class="entry-location">[Location]</span>
+      </div>
+      <div class="entry-details">
+          <span class="entry-title">[Degree] in [Field of Study] | GPA: [Your GPA]/4.0</span>
+          <span class="entry-year">[Start Year] – [End Year]</span>
+      </div>
+      <ul class="compact-list">
+          <li>[Course Name] → GPA: [Grade]/4.0</li>
       </ul>
     </div>
 </section>
